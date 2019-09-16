@@ -1,0 +1,15 @@
+{
+  "name": "csv-parser",
+  "version": "0.1.0",
+  "description": "Create an JSON object from a CSV file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Omar Flores Grimontt <omarefg92@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "comma-separated-values": "^3.6.4"
+  }
+}
